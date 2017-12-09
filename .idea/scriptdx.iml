@@ -8,6 +8,7 @@
     <orderEntry type="jdk" jdkName="RVM: ruby-2.4.2 [scriptdx]" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.16.0, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="codecov (v0.1.10, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coderay (v1.1.2, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.3, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="docile (v1.1.5, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
@@ -35,6 +36,7 @@
     <orderEntry type="library" scope="PROVIDED" name="tty-prompt (v0.13.2, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tty-reader (v0.1.0, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tty-which (v0.3.0, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="url (v0.3.2, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="wisper (v2.0.0, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
   </component>
 </module>
