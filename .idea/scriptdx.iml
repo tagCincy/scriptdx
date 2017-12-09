@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="ModuleRunConfigurationManager">
+    <shared />
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="RVM: ruby-2.4.2 [scriptdx]" jdkType="RUBY_SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.16.0, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coderay (v1.1.2, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.3, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="docile (v1.1.5, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="equatable (v0.5.0, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="hitimes (v1.2.6, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="json (v2.1.0, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="method_source (v0.9.0, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="necromancer (v0.4.0, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pastel (v0.7.2, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pry (v0.11.3, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v10.5.0, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec (v3.7.0, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-core (v3.7.0, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-expectations (v3.7.0, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-mocks (v3.7.0, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-support (v3.7.0, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="simplecov (v0.15.1, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="simplecov-html (v0.10.2, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thor (v0.20.0, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="timers (v4.1.2, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tty-color (v0.4.2, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tty-command (v0.7.0, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tty-cursor (v0.5.0, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tty-platform (v0.1.0, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tty-prompt (v0.13.2, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tty-reader (v0.1.0, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tty-which (v0.3.0, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="wisper (v2.0.0, RVM: ruby-2.4.2 [scriptdx]) [gem]" level="application" />
+  </component>
+</module>
